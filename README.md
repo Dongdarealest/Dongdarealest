@@ -1,4 +1,10 @@
 <img src="Rainbow.gif" width="100%">
+<div align="center">
+
+  <img src="avatargit.png" alt="Profile Picture">
+
+</div>
+
 
 <h3 align="center">Hey there, I’m Dongdarealest <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
 <hr>
