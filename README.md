@@ -6,7 +6,7 @@
 </div>
 
 
-<h3 align="center">Hey there, I’m Dongdarealest <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
+<h3 align="center">I'm Dongdarealest </h3>
 <hr>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
