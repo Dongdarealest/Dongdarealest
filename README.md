@@ -26,3 +26,4 @@
  <img src="http://github-readme-streak-stats.herokuapp.com?user=Dongdarealest&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF">
  </div>
 </div>
+<img src="Rainbow.gif" width="100%">
