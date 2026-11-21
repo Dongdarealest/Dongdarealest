@@ -1,0 +1,23 @@
+name: Profile data
+on:
+  schedule:
+    - cron: "15 23 * * *"
+  workflow_dispatch:
+jobs:
+  data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rebuild EQ and projects panels from live repo data
+        run: python3 update_data.py
+      - name: Commit if changed
+        run: |
+          if [ -n "$(git status --porcelain eq.svg projects.svg)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add eq.svg projects.svg
+            git commit -m "Refresh profile data panels"
+            git push
+          fi
