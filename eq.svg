@@ -47,7 +47,7 @@
 <text x="238.33333333333334" y="852" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="26" fill="#8A8680">31 Hz</text>
 <text x="238.33333333333334" y="898" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#F2EFE9">Python</text>
 <text x="238.33333333333334" y="934" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="25" fill="#8A8680">43.8%</text>
-<text x="495.0" y="240" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="30" font-weight="600" fill="#E8C87A">+11.6 dB</text>
+<text x="495.0" y="240" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="30" font-weight="600" fill="#E8C87A">+11.5 dB</text>
 <line x1="535.0" y1="262" x2="535.0" y2="785" stroke="#23272F" stroke-width="6"/>
 <line x1="545.0" y1="262.0" x2="559.0" y2="262.0" stroke="#2A2F3A" stroke-width="3"/>
 <line x1="545.0" y1="392.75" x2="559.0" y2="392.75" stroke="#2A2F3A" stroke-width="3"/>
@@ -82,7 +82,7 @@
 <text x="495.0" y="852" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="26" fill="#8A8680">62 Hz</text>
 <text x="495.0" y="898" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#F2EFE9">JavaScript</text>
 <text x="495.0" y="934" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="25" fill="#8A8680">42.2%</text>
-<text x="751.6666666666667" y="240" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="30" font-weight="600" fill="#E8C87A">-1.7 dB</text>
+<text x="751.6666666666667" y="240" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="30" font-weight="600" fill="#E8C87A">-2.5 dB</text>
 <line x1="791.6666666666667" y1="262" x2="791.6666666666667" y2="785" stroke="#23272F" stroke-width="6"/>
 <line x1="801.6666666666667" y1="262.0" x2="815.6666666666667" y2="262.0" stroke="#2A2F3A" stroke-width="3"/>
 <line x1="801.6666666666667" y1="392.75" x2="815.6666666666667" y2="392.75" stroke="#2A2F3A" stroke-width="3"/>
@@ -117,7 +117,7 @@
 <text x="751.6666666666667" y="852" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="26" fill="#8A8680">250 Hz</text>
 <text x="751.6666666666667" y="898" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#F2EFE9">HTML</text>
 <text x="751.6666666666667" y="934" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="25" fill="#8A8680">8.1%</text>
-<text x="1008.3333333333334" y="240" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="30" font-weight="600" fill="#E8C87A">-3.4 dB</text>
+<text x="1008.3333333333334" y="240" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="30" font-weight="600" fill="#E8C87A">-4.3 dB</text>
 <line x1="1048.3333333333335" y1="262" x2="1048.3333333333335" y2="785" stroke="#23272F" stroke-width="6"/>
 <line x1="1058.3333333333335" y1="262.0" x2="1072.3333333333335" y2="262.0" stroke="#2A2F3A" stroke-width="3"/>
 <line x1="1058.3333333333335" y1="392.75" x2="1072.3333333333335" y2="392.75" stroke="#2A2F3A" stroke-width="3"/>
@@ -139,20 +139,20 @@
 <rect x="946.3333333333334" y="526" width="46" height="17" rx="4" fill="#1A2029"/>
 <rect x="946.3333333333334" y="548" width="46" height="17" rx="4" fill="#1A2029"/>
 <rect x="946.3333333333334" y="570" width="46" height="17" rx="4" fill="#1A2029"/>
-<rect x="946.3333333333334" y="592" width="46" height="17" rx="4" fill="#E8C87A" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.87s" dur="0.05s" fill="freeze"/></rect>
-<rect x="946.3333333333334" y="614" width="46" height="17" rx="4" fill="#DCBD71" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.82s" dur="0.05s" fill="freeze"/></rect>
-<rect x="946.3333333333334" y="636" width="46" height="17" rx="4" fill="#D0B168" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.78s" dur="0.05s" fill="freeze"/></rect>
-<rect x="946.3333333333334" y="658" width="46" height="17" rx="4" fill="#C5A660" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.73s" dur="0.05s" fill="freeze"/></rect>
-<rect x="946.3333333333334" y="680" width="46" height="17" rx="4" fill="#B99A57" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.69s" dur="0.05s" fill="freeze"/></rect>
-<rect x="946.3333333333334" y="702" width="46" height="17" rx="4" fill="#AD8F4E" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.05s" fill="freeze"/></rect>
-<rect x="946.3333333333334" y="724" width="46" height="17" rx="4" fill="#A28446" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.05s" fill="freeze"/></rect>
-<rect x="946.3333333333334" y="746" width="46" height="17" rx="4" fill="#96783D" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.05s" fill="freeze"/></rect>
+<rect x="946.3333333333334" y="592" width="46" height="17" rx="4" fill="#1A2029"/>
+<rect x="946.3333333333334" y="614" width="46" height="17" rx="4" fill="#E8C87A" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.82s" dur="0.05s" fill="freeze"/></rect>
+<rect x="946.3333333333334" y="636" width="46" height="17" rx="4" fill="#DBBB70" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.78s" dur="0.05s" fill="freeze"/></rect>
+<rect x="946.3333333333334" y="658" width="46" height="17" rx="4" fill="#CDAE66" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.73s" dur="0.05s" fill="freeze"/></rect>
+<rect x="946.3333333333334" y="680" width="46" height="17" rx="4" fill="#C0A15C" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.69s" dur="0.05s" fill="freeze"/></rect>
+<rect x="946.3333333333334" y="702" width="46" height="17" rx="4" fill="#B29452" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.05s" fill="freeze"/></rect>
+<rect x="946.3333333333334" y="724" width="46" height="17" rx="4" fill="#A58748" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.05s" fill="freeze"/></rect>
+<rect x="946.3333333333334" y="746" width="46" height="17" rx="4" fill="#977A3E" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.05s" fill="freeze"/></rect>
 <rect x="946.3333333333334" y="768" width="46" height="17" rx="4" fill="#8A6D34" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.51s" dur="0.05s" fill="freeze"/></rect>
-<g><rect x="1015.3333333333335" y="580.0" width="66" height="36" rx="9" fill="#141A23" stroke="#A98B4F" stroke-width="2"/><line x1="1028.3333333333335" y1="598.0" x2="1068.3333333333335" y2="598.0" stroke="#F2EFE9" stroke-width="4"/><animateTransform attributeName="transform" type="translate" from="0 250" to="0 0" begin="0.36s" dur="0.9s" fill="freeze"/></g>
+<g><rect x="1015.3333333333335" y="602.0" width="66" height="36" rx="9" fill="#141A23" stroke="#A98B4F" stroke-width="2"/><line x1="1028.3333333333335" y1="620.0" x2="1068.3333333333335" y2="620.0" stroke="#F2EFE9" stroke-width="4"/><animateTransform attributeName="transform" type="translate" from="0 250" to="0 0" begin="0.36s" dur="0.9s" fill="freeze"/></g>
 <text x="1008.3333333333334" y="852" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="26" fill="#8A8680">1 kHz</text>
 <text x="1008.3333333333334" y="898" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#F2EFE9">CSS</text>
 <text x="1008.3333333333334" y="934" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="25" fill="#8A8680">5.6%</text>
-<text x="1265.0" y="240" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="30" font-weight="600" fill="#E8C87A">-10.4 dB</text>
+<text x="1265.0" y="240" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="30" font-weight="600" fill="#E8C87A">-10.8 dB</text>
 <line x1="1305.0" y1="262" x2="1305.0" y2="785" stroke="#23272F" stroke-width="6"/>
 <line x1="1315.0" y1="262.0" x2="1329.0" y2="262.0" stroke="#2A2F3A" stroke-width="3"/>
 <line x1="1315.0" y1="392.75" x2="1329.0" y2="392.75" stroke="#2A2F3A" stroke-width="3"/>
@@ -181,13 +181,13 @@
 <rect x="1203.0" y="680" width="46" height="17" rx="4" fill="#1A2029"/>
 <rect x="1203.0" y="702" width="46" height="17" rx="4" fill="#1A2029"/>
 <rect x="1203.0" y="724" width="46" height="17" rx="4" fill="#1A2029"/>
-<rect x="1203.0" y="746" width="46" height="17" rx="4" fill="#E8C87A" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.68s" dur="0.05s" fill="freeze"/></rect>
+<rect x="1203.0" y="746" width="46" height="17" rx="4" fill="#1A2029"/>
 <rect x="1203.0" y="768" width="46" height="17" rx="4" fill="#8A6D34" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.63s" dur="0.05s" fill="freeze"/></rect>
-<g><rect x="1272.0" y="734.0" width="66" height="36" rx="9" fill="#141A23" stroke="#A98B4F" stroke-width="2"/><line x1="1285.0" y1="752.0" x2="1325.0" y2="752.0" stroke="#F2EFE9" stroke-width="4"/><animateTransform attributeName="transform" type="translate" from="0 250" to="0 0" begin="0.48s" dur="0.9s" fill="freeze"/></g>
+<g><rect x="1272.0" y="756.0" width="66" height="36" rx="9" fill="#141A23" stroke="#A98B4F" stroke-width="2"/><line x1="1285.0" y1="774.0" x2="1325.0" y2="774.0" stroke="#F2EFE9" stroke-width="4"/><animateTransform attributeName="transform" type="translate" from="0 250" to="0 0" begin="0.48s" dur="0.9s" fill="freeze"/></g>
 <text x="1265.0" y="852" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="26" fill="#8A8680">4 kHz</text>
 <text x="1265.0" y="898" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#F2EFE9">Shell</text>
 <text x="1265.0" y="934" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="25" fill="#8A8680">0.2%</text>
-<text x="1521.6666666666667" y="240" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="30" font-weight="600" fill="#E8C87A">-10.4 dB</text>
+<text x="1521.6666666666667" y="240" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="30" font-weight="600" fill="#E8C87A">-10.9 dB</text>
 <line x1="1561.6666666666667" y1="262" x2="1561.6666666666667" y2="785" stroke="#23272F" stroke-width="6"/>
 <line x1="1571.6666666666667" y1="262.0" x2="1585.6666666666667" y2="262.0" stroke="#2A2F3A" stroke-width="3"/>
 <line x1="1571.6666666666667" y1="392.75" x2="1585.6666666666667" y2="392.75" stroke="#2A2F3A" stroke-width="3"/>
@@ -216,9 +216,9 @@
 <rect x="1459.6666666666667" y="680" width="46" height="17" rx="4" fill="#1A2029"/>
 <rect x="1459.6666666666667" y="702" width="46" height="17" rx="4" fill="#1A2029"/>
 <rect x="1459.6666666666667" y="724" width="46" height="17" rx="4" fill="#1A2029"/>
-<rect x="1459.6666666666667" y="746" width="46" height="17" rx="4" fill="#E8C87A" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.80s" dur="0.05s" fill="freeze"/></rect>
+<rect x="1459.6666666666667" y="746" width="46" height="17" rx="4" fill="#1A2029"/>
 <rect x="1459.6666666666667" y="768" width="46" height="17" rx="4" fill="#8A6D34" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.05s" fill="freeze"/></rect>
-<g><rect x="1528.6666666666667" y="734.0" width="66" height="36" rx="9" fill="#141A23" stroke="#A98B4F" stroke-width="2"/><line x1="1541.6666666666667" y1="752.0" x2="1581.6666666666667" y2="752.0" stroke="#F2EFE9" stroke-width="4"/><animateTransform attributeName="transform" type="translate" from="0 250" to="0 0" begin="0.60s" dur="0.9s" fill="freeze"/></g>
+<g><rect x="1528.6666666666667" y="756.0" width="66" height="36" rx="9" fill="#141A23" stroke="#A98B4F" stroke-width="2"/><line x1="1541.6666666666667" y1="774.0" x2="1581.6666666666667" y2="774.0" stroke="#F2EFE9" stroke-width="4"/><animateTransform attributeName="transform" type="translate" from="0 250" to="0 0" begin="0.60s" dur="0.9s" fill="freeze"/></g>
 <text x="1521.6666666666667" y="852" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="26" fill="#8A8680">16 kHz</text>
 <text x="1521.6666666666667" y="898" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#F2EFE9">PHP</text>
 <text x="1521.6666666666667" y="934" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="25" fill="#8A8680">0.2%</text>
