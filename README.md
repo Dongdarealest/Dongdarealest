@@ -20,6 +20,10 @@
 - Pushed 1 commit to [tubeeq-api](https://github.com/Dongdarealest/tubeeq-api) · 21/11
 <!--ACTIVITY:END-->
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dongdarealest&layout=compact&bg_color=0D1117&title_color=F2EFE9&text_color=8A8680&hide_border=true&langs_count=8" alt="Most used languages" />
+</p>
+
 ![Metrics](github-metrics.svg?v=20261121)
 
 ### 👉 Find me on the web
