@@ -1,4 +1,4 @@
-![Metrics](github-metrics.svg)
+![Metrics](github-metrics.svg?v=20261121)
 
 ### 👉 Find me on the web
 🌎 https://dongdarealest.github.io/TubeEQ/
