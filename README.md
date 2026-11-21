@@ -5,6 +5,4 @@
 
 📚 [Sai Đâu Sửa Đó](https://dongdarealest.github.io/sai-dau-sua-do/)
 
-☕ [ko-fi.com/dongvan](https://ko-fi.com/dongvan)
-
 ![](https://komarev.com/ghpvc/?username=Dongdarealest&color=A98B4F&style=flat-square&label=Profile+Views)
