@@ -8,8 +8,6 @@
 
 ![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=Dongdarealest&bg_color=0D1117&color=F2EFE9&line=A98B4F&point=F2EFE9&area=true&area_color=A98B4F&hide_border=true)
 
-![Contribution snake](https://raw.githubusercontent.com/Dongdarealest/Dongdarealest/output/github-snake-dark.svg)
-
 ### Recent activity
 
 <!--ACTIVITY:START-->
@@ -26,9 +24,8 @@
 
 ![Metrics](github-metrics.svg?v=20261121)
 
-### 👉 Find me on the web
-🌎 https://dongdarealest.github.io/TubeEQ/
+<p align="center">
+<a href="https://dongdarealest.github.io/TubeEQ/">TubeEQ</a> &nbsp;·&nbsp; <a href="https://dongdarealest.github.io/sai-dau-sua-do/">Sai Đâu Sửa Đó</a>
+</p>
 
-📚 [Sai Đâu Sửa Đó](https://dongdarealest.github.io/sai-dau-sua-do/)
-
-![](https://komarev.com/ghpvc/?username=Dongdarealest&color=A98B4F&style=flat-square&label=Profile+Views)
+![Closing plate](footer.png)
