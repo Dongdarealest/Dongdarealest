@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1760" height="230" viewBox="0 0 1760 230">
+<style>.dot { animation: pulse 2.2s ease-in-out infinite; } @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.2; } 100% { opacity: 1; } }</style>
+<rect x="4" y="4" width="1752" height="222" rx="24" fill="#141414" stroke="#2A2A26" stroke-width="2"/>
+<circle class="dot" cx="92" cy="115" r="14" fill="#A98B4F"/>
+<text x="140" y="104" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="35" font-weight="600" letter-spacing="6" fill="#F2EFE9">NIGHT SESSION · DA LAT 17°C · OVERCAST</text>
+<text x="140" y="158" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="27" fill="#8A8680">Last push 21:06 to Dongdarealest · 54 pushes this week</text>
+</svg>
