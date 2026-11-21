@@ -1,0 +1,23 @@
+name: Plate
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+jobs:
+  plate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Refresh plate
+        run: python3 update_plate.py
+      - name: Commit if changed
+        run: |
+          if [ -n "$(git status --porcelain plate.svg)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add plate.svg
+            git commit -m "Refresh night session plate"
+            git push
+          fi
