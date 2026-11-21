@@ -1,6 +1,6 @@
-![Exhibition poster](poster.png)
+![Exhibition poster](poster.png?v=2)
 
-![Profile, equalized](eq.png)
+![Profile, equalized](eq.png?v=2)
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Dongdarealest&background=0D1117&stroke=23272F&ring=A98B4F&fire=A98B4F&currStreakLabel=F2EFE9&sideLabels=8A8680&currStreakNum=F2EFE9&sideNums=F2EFE9&dates=8A8680&hide_border=true" alt="Contribution streak" />
