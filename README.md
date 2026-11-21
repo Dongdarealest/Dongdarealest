@@ -1,4 +1,4 @@
-![Exhibition poster](poster.png?v=2)
+![Exhibition poster](poster.svg)
 
 ![Profile, equalized](eq.svg)
 
