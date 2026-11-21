@@ -1,5 +1,6 @@
 ![Poster](poster.svg)
 
+<a href="https://dongdarealest.github.io/github-profile-studio/"><img src="https://github-profile-studio-api.vercel.app/api/score?username=Dongdarealest" alt="Profile score" /></a>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=A98B4F&center=true&vCenter=true&width=880&lines=Building+TubeEQ+%E2%80%94+hear+YouTube+right;Sai+%C4%90%C3%A2u+S%E1%BB%ADa+%C4%90%C3%B3+%E2%80%94+English%2C+fixed+daily;GitHub+Profile+Studio+%E2%80%94+beautiful+profiles+in+60+seconds&color=A98B4F&style=flat-square&label=Profile+views" alt="Profile views" />
