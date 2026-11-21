@@ -8,6 +8,8 @@
 
 ![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=Dongdarealest&bg_color=0D1117&color=F2EFE9&line=A98B4F&point=F2EFE9&area=true&area_color=A98B4F&hide_border=true)
 
+![Contribution snake](https://raw.githubusercontent.com/Dongdarealest/Dongdarealest/output/github-snake-dark.svg)
+
 ### Recent activity
 
 <!--ACTIVITY:START-->
