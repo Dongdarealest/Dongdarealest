@@ -6,10 +6,6 @@
 
 ![Profile, equalized](eq.png)
 
-![Da Lat, through his lens](dalat-strip.jpg)
-
-<p align="center"><sub>Da Lat, through his lens · @dongdilac</sub></p>
-
 ### The rooms
 
 **Phòng 01 · [TubeEQ](https://github.com/Dongdarealest/TubeEQ)**
