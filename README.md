@@ -1,6 +1,6 @@
 ![Poster](poster.svg)
 
-<p align="center">Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; Chrome Extensions &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; GitHub Actions</p>
+![Skills](skills.svg)
 
 ![Profile, equalized](eq.svg)
 
