@@ -124,3 +124,35 @@ for i, r in enumerate(recent):
 p.append('</svg>')
 open('projects.svg', 'w').write('\n'.join(p))
 print('projects.svg regenerated:', [r['name'] for r in recent])
+
+# ---- poster svg (identity plate with live data) ----
+me = get(f'https://api.github.com/users/{USER}')
+since_year = me['created_at'][:4]
+works = len(projects)
+latest = recent[0]['name'] if recent else ''
+DISPLAY = "'Noto Serif Display', 'Playfair Display', Georgia, serif"
+q = []
+q.append('<svg xmlns="http://www.w3.org/2000/svg" width="1760" height="1120" viewBox="0 0 1760 1120">')
+q.append('<rect width="1760" height="1120" fill="#141414"/>')
+q.append('<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>')
+q.append('<rect x="36" y="36" width="1688" height="1048" fill="none" stroke="#4A4842" stroke-width="2"/>')
+q.append('<rect x="48" y="48" width="1664" height="1024" fill="none" stroke="#34322E" stroke-width="1"/>')
+q.append('<path d="M 802 256 L 802 206 A 78 78 0 0 1 958 206 L 958 256 Z" fill="none" stroke="#A98B4F" stroke-width="4"/>')
+q.append(f'<text x="880" y="352" text-anchor="middle" font-family="{SANS}" font-size="26" font-weight="500" letter-spacing="12" fill="#8A8680">A PERMANENT EXHIBITION</text>')
+q.append(f'<text x="880" y="492" text-anchor="middle" font-family="{DISPLAY}" font-size="124" font-weight="600" fill="#F2EFE9">Dongdarealest</text>')
+q.append('<line x1="580" y1="566" x2="856" y2="566" stroke="#A98B4F" stroke-width="2"/>')
+q.append('<line x1="904" y1="566" x2="1180" y2="566" stroke="#A98B4F" stroke-width="2"/>')
+q.append('<polygon points="880,558 888,566 880,574 872,566" fill="#A98B4F"/>')
+q.append(f'<text x="880" y="672" text-anchor="middle" font-family="{DISPLAY}" font-size="46" font-style="italic" fill="#CBC7BE">Works in code, light and sound</text>')
+q.append(f'<text x="880" y="728" text-anchor="middle" font-family="{SANS}" font-size="26" fill="#8A8680">Built at night in the pine hills of Da Lat</text>')
+cols = [('EST.', f'Da Lat · since {since_year}'), ('WORKS', f'{works} public projects'), ('NOW SHOWING', latest)]
+for i, (k, v) in enumerate(cols):
+    x = [373, 880, 1387][i]
+    q.append(f'<text x="{x}" y="932" text-anchor="middle" font-family="{SANS}" font-size="21" font-weight="600" letter-spacing="4" fill="#A98B4F">{k}</text>')
+    q.append(f'<text x="{x}" y="976" text-anchor="middle" font-family="{DISPLAY}" font-size="31" fill="#F2EFE9">{v}</text>')
+    if i:
+        q.append(f'<line x1="{[627, 1133][i - 1]}" y1="916" x2="{[627, 1133][i - 1]}" y2="984" stroke="#4A4842" stroke-width="1"/>')
+q.append('</g>')
+q.append('</svg>')
+open('poster.svg', 'w').write('\n'.join(q))
+print('poster.svg regenerated:', since_year, works, latest)
