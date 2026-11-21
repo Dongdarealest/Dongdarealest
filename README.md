@@ -1,13 +1,3 @@
-<img src="banner.jpg" width="100%">
-
-<div align="center">
-
-# Dongdarealest
-
-*Tour guide in Da Lat. Builder of small tools and quiet pages.*
-
-</div>
-
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-141414?style=for-the-badge&logo=python&logoColor=A98B4F">
   <img src="https://img.shields.io/badge/-JavaScript-141414?style=for-the-badge&logo=javascript&logoColor=A98B4F">
