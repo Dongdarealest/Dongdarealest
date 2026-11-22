@@ -20,7 +20,11 @@ Independent developer building open source tools for real users: browser extensi
 
 ## Working tools
 
-Python · JavaScript · HTML · CSS · Chrome extensions · REST APIs · GitHub Actions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="tools-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="tools-light.svg" />
+  <img alt="Working tools, generated from my repositories" src="tools-light.svg" width="100%" />
+</picture>
 
 ## Elsewhere
 

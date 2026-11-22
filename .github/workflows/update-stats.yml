@@ -1,0 +1,24 @@
+name: Update live plate
+on:
+  schedule:
+    - cron: "17 1 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  plate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add plate-dark.svg plate-light.svg tools-dark.svg tools-light.svg
+          git diff --cached --quiet || git commit -m "Live plate update"
+          git push
