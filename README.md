@@ -34,8 +34,12 @@ Independent developer building open source tools for real users: browser extensi
   <img alt="Contribution calendar for the last year" src="contrib-light.svg" width="100%" />
 </picture>
 
+## Support
+
+Everything I ship is free. If a tool saved you time, you can [sponsor me on GitHub](https://github.com/sponsors/Dongdarealest) or [buy me a coffee on Ko-fi](https://ko-fi.com/dongdarealest). It goes straight into the next tool.
+
 ## Elsewhere
 
-[TubeEQ](https://dongdarealest.github.io/TubeEQ/) · [Sai Đâu Sửa Đó](https://dongdarealest.github.io/sai-dau-sua-do/) · [SkillPort demo](https://dongdarealest.github.io/skillport/) · [Ko-fi](https://ko-fi.com/dongvan)
+[TubeEQ](https://dongdarealest.github.io/TubeEQ/) · [Sai Đâu Sửa Đó](https://dongdarealest.github.io/sai-dau-sua-do/) · [SkillPort demo](https://dongdarealest.github.io/skillport/) · [Ko-fi](https://ko-fi.com/dongdarealest)
 
 <sub>Da Lat, Vietnam · Building in the open since 2022</sub>
