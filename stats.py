@@ -90,9 +90,40 @@ def write_tools(d):
     open(os.path.join(HERE, "tools-dark.svg"), "w").write(tools_plate(d, True))
     open(os.path.join(HERE, "tools-light.svg"), "w").write(tools_plate(d, False))
 
+def contrib_plate(dark):
+    cache = json.load(open(os.path.join(HERE, "contrib-cache.json")))
+    weeks = cache["weeks"]; total = cache["total"]
+    active = sum(1 for w in weeks for day in w if day["c"] > 0)
+    if dark:
+        empty, label, mut = "#1C1C1F", "#F5F2EA", "#8A8680"
+        lv = ["#4A3F28", "#7A6535", "#A98B4F", "#E3C888"]
+    else:
+        empty, label, mut = "#E9E5DB", "#141414", "#6E6A62"
+        lv = ["#D8C491", "#B99B57", "#A98B4F", "#7A6535"]
+    mx = max(day["c"] for w in weeks for day in w) or 1
+    def lvl(c):
+        if c == 0: return empty
+        q = c / mx
+        return lv[0] if q <= .25 else lv[1] if q <= .5 else lv[2] if q <= .75 else lv[3]
+    cell, gap = 15, 4
+    W = len(weeks) * (cell + gap) + 8
+    H = 7 * (cell + gap) + 74
+    parts = [f'<text x="4" y="26" font-family="Georgia, serif" font-size="24" fill="{label}">{total} contributions in the last year</text>']
+    parts.append(f'<text x="4" y="52" font-family="Helvetica, Arial, sans-serif" font-size="14" letter-spacing="2" fill="{mut}">{active} ACTIVE DAYS · UPDATED FROM REAL CONTRIBUTIONS</text>')
+    for wi, w in enumerate(weeks):
+        for di, day in enumerate(w):
+            x = 4 + wi * (cell + gap); y = 66 + di * (cell + gap)
+            parts.append(f'<rect x="{x}" y="{y}" width="{cell}" height="{cell}" rx="3" fill="{lvl(day["c"])}"><title>{day["d"]}: {day["c"]}</title></rect>')
+    return f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">{"".join(parts)}</svg>'
+
+def write_contrib():
+    open(os.path.join(HERE, "contrib-dark.svg"), "w").write(contrib_plate(True))
+    open(os.path.join(HERE, "contrib-light.svg"), "w").write(contrib_plate(False))
+
 if __name__ == "__main__":
     d = fetch()
     open(os.path.join(HERE, "plate-dark.svg"), "w").write(plate(d, True))
     open(os.path.join(HERE, "plate-light.svg"), "w").write(plate(d, False))
     write_tools(d)
+    write_contrib()
     print("plates written", d["repos"], "repos,", d["stars"], "stars")

@@ -26,6 +26,14 @@ Independent developer building open source tools for real users: browser extensi
   <img alt="Working tools, generated from my repositories" src="tools-light.svg" width="100%" />
 </picture>
 
+## The last year
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="contrib-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="contrib-light.svg" />
+  <img alt="Contribution calendar for the last year" src="contrib-light.svg" width="100%" />
+</picture>
+
 ## Elsewhere
 
 [TubeEQ](https://dongdarealest.github.io/TubeEQ/) · [Sai Đâu Sửa Đó](https://dongdarealest.github.io/sai-dau-sua-do/) · [SkillPort demo](https://dongdarealest.github.io/skillport/) · [Ko-fi](https://ko-fi.com/dongvan)

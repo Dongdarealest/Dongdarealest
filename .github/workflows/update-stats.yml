@@ -19,6 +19,6 @@ jobs:
       - run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add plate-dark.svg plate-light.svg tools-dark.svg tools-light.svg
+          git add plate-dark.svg plate-light.svg tools-dark.svg tools-light.svg contrib-dark.svg contrib-light.svg contrib-cache.json
           git diff --cached --quiet || git commit -m "Live plate update"
           git push
