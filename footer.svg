@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1760" height="340" viewBox="0 0 1760 340">
-<rect width="1760" height="340" fill="#141414"/>
-<line x1="80" y1="30" x2="1680" y2="30" stroke="#4A4842" stroke-width="1"/>
-<path d="M 840 150 L 840 124 A 40 40 0 0 1 920 124 L 920 150 Z" fill="none" stroke="#A98B4F" stroke-width="3"/>
-<text x="880" y="222" text-anchor="middle" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="23" font-weight="500" letter-spacing="10" fill="#8A8680">BUILT AT NIGHT IN DA LAT</text>
-<text x="880" y="272" text-anchor="middle" font-family="'Noto Serif Display', 'Playfair Display', Georgia, serif" font-size="30" font-style="italic" fill="#CBC7BE">Dongdarealest</text>
-</svg>

@@ -1,62 +1,29 @@
-![Poster](poster.svg)
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=A98B4F&center=true&vCenter=true&width=880&lines=Building+TubeEQ+%E2%80%94+hear+YouTube+right;Sai+%C4%90%C3%A2u+S%E1%BB%ADa+%C4%90%C3%B3+%E2%80%94+English%2C+fixed+daily;GitHub+Profile+Studio+%E2%80%94+beautiful+profiles+in+60+seconds&color=A98B4F&style=flat-square&label=Profile+views" alt="Profile views" />
-
-</div>
-
-I build small, finished tools: a YouTube equalizer people actually keep installed, an English learning page that fixes one Vietnamese mistake a day, and an open-source studio that makes any GitHub profile beautiful in a minute. Everything below is generated from my real repositories and updates itself.
-
-<div align="center">
-<img src="https://github-profile-studio-api.vercel.app/api/sky?username=Dongdarealest&color=A98B4F&bg=0D1117&text=E6EDF3" width="100%" alt="My last 90 days, as a night sky" />
-</div>
-
-![Skills](skills.svg)
-
-## Featured works
-
-<div align="center">
-<a href="https://github.com/Dongdarealest/TubeEQ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dongdarealest&repo=TubeEQ&title_color=A98B4F&icon_color=A98B4F&text_color=E6EDF3&bg_color=0D1117&border_color=30363D" alt="TubeEQ" /></a>
-<a href="https://github.com/Dongdarealest/github-profile-studio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dongdarealest&repo=github-profile-studio&title_color=A98B4F&icon_color=A98B4F&text_color=E6EDF3&bg_color=0D1117&border_color=30363D" alt="GitHub Profile Studio" /></a>
-<a href="https://github.com/Dongdarealest/sai-dau-sua-do"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dongdarealest&repo=sai-dau-sua-do&title_color=A98B4F&icon_color=A98B4F&text_color=E6EDF3&bg_color=0D1117&border_color=30363D" alt="Sai Đâu Sửa Đó" /></a>
-<a href="https://github.com/Dongdarealest/DONGUNLOCK"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dongdarealest&repo=DONGUNLOCK&title_color=A98B4F&icon_color=A98B4F&text_color=E6EDF3&bg_color=0D1117&border_color=30363D" alt="DONGUNLOCK" /></a>
-</div>
-
-![Profile, equalized](eq.svg)
-
-![Projects in progress](projects.svg)
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dongdarealest/Dongdarealest/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dongdarealest/Dongdarealest/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Dongdarealest/Dongdarealest/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="header-light.svg" />
+  <img alt="Bui Van Dong" src="header-light.svg" width="100%" />
 </picture>
 
-### Recent activity
+Tour guide and photographer by day, builder by night. Everything I ship is open source, made for real users, and finished before it is announced.
 
-<!--ACTIVITY:START-->
-- Pushed 1 commit to [Dongdarealest](https://github.com/Dongdarealest/Dongdarealest) · 21/11
-- Pushed 1 commit to [sai-dau-sua-do](https://github.com/Dongdarealest/sai-dau-sua-do) · 20/11
-- Pushed 1 commit to [sai-dau-sua-do](https://github.com/Dongdarealest/sai-dau-sua-do) · 20/11
-- Pushed 1 commit to [sai-dau-sua-do](https://github.com/Dongdarealest/sai-dau-sua-do) · 21/11
-- Pushed 1 commit to [github-profile-studio](https://github.com/Dongdarealest/github-profile-studio) · 21/11
-<!--ACTIVITY:END-->
+## Selected work
 
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dongdarealest&show_icons=true&include_all_commits=true&title_color=A98B4F&icon_color=A98B4F&text_color=E6EDF3&bg_color=0D1117&border_color=30363D" alt="GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=Dongdarealest&background=0D1117&border=30363D&ring=A98B4F&fire=A98B4F&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=A98B4F&sideLabels=E6EDF3&dates=E6EDF3" alt="Contribution streak" />
-</div>
+**[SkillPort](https://github.com/Dongdarealest/skillport)** · Write a skill once, run it on every AI. Converts a Claude `SKILL.md` into ready to use packages for Muse, Cursor, Codex and ChatGPT. [Live demo](https://dongdarealest.github.io/skillport/)
 
-<details>
-<summary><b>Full metrics dashboard</b> — the long version, one click away</summary>
+**[TubeEQ](https://github.com/Dongdarealest/TubeEQ)** · Hear YouTube right. A free 10 band equalizer for YouTube with per channel presets and shareable preset codes.
 
-![Metrics](github-metrics.svg)
+**[Sai Đâu Sửa Đó](https://github.com/Dongdarealest/sai-dau-sua-do)** · An English learning project that fixes one common Vietnamese mistake a day, with a learning site, an open API and a community.
 
-</details>
+**[GitHub Profile Studio](https://github.com/Dongdarealest/github-profile-studio)** · Make your GitHub profile beautiful in 60 seconds. Ten themes, thirty live blocks, one username.
 
-<p align="center">
-<a href="https://dongdarealest.github.io/TubeEQ/">TubeEQ</a> &nbsp;·&nbsp; <a href="https://dongdarealest.github.io/sai-dau-sua-do/">Sai Đâu Sửa Đó</a> &nbsp;·&nbsp; <a href="https://github.com/Dongdarealest/github-profile-studio">Profile Studio</a> &nbsp;·&nbsp; <a href="https://ko-fi.com/dongvan">Ko-fi</a>
-</p>
+**[DONGUNLOCK](https://github.com/Dongdarealest/DONGUNLOCK)** · Shadowrocket modules that remove ads and unlock premium features in the apps I use every day.
 
-![Closing plate](footer.svg)
+## Working tools
+
+Python · JavaScript · HTML · CSS · Chrome extensions · REST APIs · GitHub Actions
+
+## Elsewhere
+
+[TubeEQ](https://dongdarealest.github.io/TubeEQ/) · [Sai Đâu Sửa Đó](https://dongdarealest.github.io/sai-dau-sua-do/) · [SkillPort demo](https://dongdarealest.github.io/skillport/) · [Ko-fi](https://ko-fi.com/dongvan)
+
+<sub>Da Lat, Vietnam · Building in the open since 2022</sub>
