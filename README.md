@@ -1,29 +1,61 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="header-light.svg" />
-  <img alt="Bui Van Dong" src="header-light.svg" width="100%" />
-</picture>
+<div align="center">
 
-Tour guide and photographer by day, builder by night. Everything I ship is open source, made for real users, and finished before it is announced.
+# Bui Van Dong
+
+**Independent developer** · Da Lat, Vietnam
+
+*I build small, finished tools.*
+
+<sub>31 PUBLIC PROJECTS · 649 CONTRIBUTIONS IN THE LAST YEAR</sub>
+
+</div>
+
+---
+
+I build open source tools for real users: browser extensions, learning platforms and AI tooling. Everything is finished before it is announced, and maintained after it ships.
 
 ## Selected work
 
-**[SkillPort](https://github.com/Dongdarealest/skillport)** · Write a skill once, run it on every AI. Converts a Claude `SKILL.md` into ready to use packages for Muse, Cursor, Codex and ChatGPT. [Live demo](https://dongdarealest.github.io/skillport/)
+### [SkillPort](https://github.com/Dongdarealest/skillport)
 
-**[TubeEQ](https://github.com/Dongdarealest/TubeEQ)** · Hear YouTube right. A free 10 band equalizer for YouTube with per channel presets and shareable preset codes.
+Write a skill once, run it on every AI. Ready-made skill packs, pre-converted for Claude, Muse, Cursor, Codex and ChatGPT.
 
-**[Sai Đâu Sửa Đó](https://github.com/Dongdarealest/sai-dau-sua-do)** · An English learning project that fixes one common Vietnamese mistake a day, with a learning site, an open API and a community.
+<sub>AI TOOLING · 2026</sub>
 
-**[GitHub Profile Studio](https://github.com/Dongdarealest/github-profile-studio)** · Make your GitHub profile beautiful in 60 seconds. Ten themes, thirty live blocks, one username.
+### [TubeEQ](https://github.com/Dongdarealest/TubeEQ)
 
-**[DONGUNLOCK](https://github.com/Dongdarealest/DONGUNLOCK)** · Shadowrocket modules that remove ads and unlock premium features in the apps I use every day.
+Hear YouTube right. A free 10-band equalizer with per-channel presets and shareable preset codes.
+
+<sub>CHROME EXTENSION · AUDIO</sub>
+
+### [Sai Đâu Sửa Đó](https://github.com/Dongdarealest/sai-dau-sua-do)
+
+One common Vietnamese English mistake, fixed every day. A learning site, an open API and a community.
+
+<sub>EDUCATION · COMMUNITY</sub>
+
+### [GitHub Profile Studio](https://github.com/Dongdarealest/github-profile-studio)
+
+Make your GitHub profile beautiful in 60 seconds. Ten themes, thirty live blocks, one username.
+
+<sub>DEVELOPER TOOLS</sub>
+
+### [DONGUNLOCK](https://github.com/Dongdarealest/DONGUNLOCK)
+
+Modules that remove ads and unlock premium features in the apps I use every day.
+
+<sub>SHADOWROCKET · IOS</sub>
 
 ## Working tools
 
-Python · JavaScript · HTML · CSS · Chrome extensions · REST APIs · GitHub Actions
+Python · JavaScript · HTML · CSS · Chrome Extensions · REST APIs · GitHub Actions
 
 ## Elsewhere
 
-[TubeEQ](https://dongdarealest.github.io/TubeEQ/) · [Sai Đâu Sửa Đó](https://dongdarealest.github.io/sai-dau-sua-do/) · [SkillPort demo](https://dongdarealest.github.io/skillport/) · [Ko-fi](https://ko-fi.com/dongvan)
+[TubeEQ](https://dongdarealest.github.io/TubeEQ/) · [Sai Đâu Sửa Đó](https://dongdarealest.github.io/sai-dau-sua-do/) · [SkillPort](https://dongdarealest.github.io/skillport/) · [Ko-fi](https://ko-fi.com/dongvan)
 
-<sub>Da Lat, Vietnam · Building in the open since 2022</sub>
+---
+
+<div align="center">
+<sub>DA LAT, VIETNAM · BUILDING IN THE OPEN SINCE 2022</sub>
+</div>
